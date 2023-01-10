@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I am a graduate student working in the field of computational mechanics
 🔭 The focous of my doctoral research is to develope numercial methods and software for multi-physics simulations using Immersed method:\
     - Lagrangian-Eulerian solid-solid interaction: [OpenIFEM-SABLE](https://github.com/nsnanal/OpenIFEM/tree/OpenIFEM-Sable)\
     - Fluid-shell strucutre interaction: [OpenIFEM-shell](https://github.com/nsnanal/OpenIFEM/tree/shell-FSI)
